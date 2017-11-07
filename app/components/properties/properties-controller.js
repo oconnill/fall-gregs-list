@@ -25,7 +25,7 @@ function PropertiesController() {
                       </div>
                       <div class="panel-body text-center">
                           <img src="${home.img}" class="img-responsive">
-                          <h4>${home.year} - ${home.make} ${home.model}</h4>
+                          <h4>${home.bedrooms} ${home.bath} - ${home.housestyle}</h4>
                       </div>
                       <div class="panel-footer">
                           <h5>$ ${home.price}</h5>
@@ -62,3 +62,19 @@ function PropertiesController() {
   
     drawProperties()
   }
+
+
+//   this.title = config.title.value
+//   this.lotsize = config.lotsize.value
+//   this.housestyle = config.housestyle.value
+//   this.bedrooms = config.bedrooms.value
+//   this.bath = config.bath.value
+//   this.price = config.price.value
+//   this.color = config.color.value
+//   this.cooling = config.cooling.value
+//   this.contact = config.contact.value
+//   this.location = config.location.value
+//   this.heating = config.heating.value
+//   this.description = config.description.value
+//   this.img = config.img.value
+//   this.id = id++

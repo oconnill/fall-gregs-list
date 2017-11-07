@@ -5,9 +5,9 @@ function PropertiesService() {
     var properties = [{
         id: 'asdfkljsdafdsaflkj239023u9402u',
         lotsize: 3409,
-        housestyle: 'Accord',
-        bedrooms: 3,
-        bath: 2,
+        housestyle: 'Colonial',
+        bedrooms: '3 Bedrooms',
+        bath: '2 Bath',
         price: 200000,
         color: 'grey',
         cooling: 'Central Air',
