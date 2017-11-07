@@ -1,5 +1,6 @@
 var app = {
     controllers: {
-        autosCtrl: new AutosController()
+        autosCtrl: new AutosController(),
+        propertiesCtrl: new PropertiesController()
     }
 }
