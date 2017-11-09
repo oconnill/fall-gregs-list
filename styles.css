@@ -1,0 +1,12 @@
+.hit{
+    color:white;
+}
+
+body {
+    background-color: grey
+}
+
+.buttons-top{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
